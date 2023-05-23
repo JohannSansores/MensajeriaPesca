@@ -1,0 +1,78 @@
+html, body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+.cbody {
+    background-color: rgb(129,201,250);
+}
+
+.logo {
+    max-height: 250px;
+    max-width: 250px;
+}
+
+.navbar {
+    background-color: rgb(0,55,133);
+}
+
+.navbar-toggler-icon {
+    background-color: #ffffff;
+    color: #ffffff;
+}
+
+.navbar li a {
+    align-items: flex-end;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.ms-auto{
+    margin-left: auto;
+}
+
+.titlenav {
+    color: #ffffff;
+    border: 1px;
+    padding: 5px;
+}
+
+.pagelogo{
+    max-height: 75px;
+    max-width: 75px;
+}
+
+.titlemessage {
+    border: 1px solid gray;
+    margin: 2px;
+}
+
+.message {
+    border: 1px solid gray;
+}
+
+.messagebody {
+    border: 1px solid gray;
+}
+
+.titlecontact {
+    height: 50px;
+}
+
+.contact {
+    border: 1px solid gray;
+    height: 50px;
+    cursor: pointer;
+}
+
+.pie {
+    background-color: rgb(20,101,187);
+}
+
+.texto {
+    color: #ffffff;
+}
+
+.messages {
+    background-color: aquamarine;
+}
